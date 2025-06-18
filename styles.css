@@ -208,7 +208,7 @@ body {
 .hero {
     min-height: 100vh;
     background: linear-gradient(135deg, rgba(0, 40, 80, 0.005) 0%, rgba(0, 40, 80, 0.007) 100%),
-                url('banner-1.png');
+                url('banner-vol.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
